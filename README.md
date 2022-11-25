@@ -7,13 +7,12 @@
 ## Features to implement
 * Automaically register card payment details in the app when using a card.
 
-## Get started with vscdoe editor
-
-Prerequisites:
+## Prerequisites:
 * JavaScript ES6 Syntax
 * Django 2.2.12 with python version 3.8.15
 * npm
 
+## Get started with Frontend
 Install npm:
 ```
 sudo apt install npm
@@ -33,6 +32,7 @@ Run local server:
 npm start
 ```
 
+## Get started with Backend
 Change the directory to ~/pynance-v1.2/pynance-backend/APIProject-root.
 
 Install dependencies:
